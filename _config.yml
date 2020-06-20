@@ -1,8 +1,7 @@
 # Base configs
-baseurl: "https://ravikalla.github.com/photos"
+baseurl: "https://ravikalla.github.io/photos"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: "---"
 
 # UI configs
 title: "World Leaders and Flags"
